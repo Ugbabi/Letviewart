@@ -1,2 +1,2 @@
 # Letviewart
-Art
+Artist
